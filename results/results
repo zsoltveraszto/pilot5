@@ -1,0 +1,2334 @@
+#
+# Results on Wednesday January 10 2018 19:58:52 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,1,0,intro,NULL,_REACTION_TIME_,1658
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,blank-1,
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,_REACTION_TIME_,966
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Zin,3,0,b.2,NULL,1,Some of the shapes are red.,849,False,Some of the shapes are red.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,3,1,b.2,NULL,NULL,1. Good,NULL,3500
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,blank-1,
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,_REACTION_TIME_,1832
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Zin,2,0,b.1,NULL,1,Some of the shapes are red.,824,False,Some of the shapes are red.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,2,1,b.1,NULL,NULL,0. Not good,NULL,2764
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,blank-1,
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,_REACTION_TIME_,2745
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,Zin,4,0,b.3,NULL,1,Some of the shapes are red.,496,False,Some of the shapes are red.
+1515614332,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,4,1,b.3,NULL,NULL,1. Good,NULL,2325
+#
+# Results on Wednesday January 10 2018 20:00:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,1,0,intro,NULL,_REACTION_TIME_,3502
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,blank-1,
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,_REACTION_TIME_,925
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Zin,4,0,b.3,NULL,1,Some of the shapes are red.,768,False,Some of the shapes are red.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,4,1,b.3,NULL,NULL,1. Good,NULL,2787
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,blank-1,
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,_REACTION_TIME_,1185
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Zin,2,0,b.1,NULL,1,Some of the shapes are red.,1240,False,Some of the shapes are red.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,2,1,b.1,NULL,NULL,0. Not good,NULL,2123
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,blank-1,
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,_REACTION_TIME_,1914
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,Zin,3,0,b.2,NULL,1,Some of the shapes are red.,898,False,Some of the shapes are red.
+1515614421,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,3,1,b.2,NULL,NULL,1. Good,NULL,1829
+#
+# Results on Wednesday January 10 2018 21:26:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,2426
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,5,0,a.1,NULL,blank-1,
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,5,0,a.1,NULL,_REACTION_TIME_,8147
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,0,b.1,NULL,1,Some of the shapes are red.,665,False,Some of the shapes are red.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,1,b.1,NULL,NULL,1. Good,NULL,2954
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,7,0,a.3,NULL,blank-1,
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,7,0,a.3,NULL,_REACTION_TIME_,954
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Zin,3,0,b.2,NULL,1,Some of the shapes are red.,815,False,Some of the shapes are red.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,VraagX,3,1,b.2,NULL,NULL,0. Not good,NULL,2821
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,6,0,a.2,NULL,blank-1,
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Form,6,0,a.2,NULL,_REACTION_TIME_,2832
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,Zin,4,0,b.3,NULL,1,Some of the shapes are red.,593,False,Some of the shapes are red.
+1515619581,7b27a42cb0320c12dad41818dc4e59a6,VraagX,4,1,b.3,NULL,NULL,1. Good,NULL,3578
+#
+# Results on Wednesday January 10 2018 21:45:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,1105708
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,5,0,a.1,NULL,blank-1,
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,5,0,a.1,NULL,_REACTION_TIME_,10674
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Zin,4,0,b.3,NULL,1,Some of the shapes are red.,5551,False,Some of the shapes are red.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,VraagX,4,1,b.3,NULL,NULL,1. Good,NULL,16737
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,6,0,a.2,NULL,blank-1,
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,6,0,a.2,NULL,_REACTION_TIME_,6783
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Zin,3,0,b.2,NULL,1,Some of the shapes are red.,597,False,Some of the shapes are red.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,VraagX,3,1,b.2,NULL,NULL,0. Not good,NULL,5141
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,7,0,a.3,NULL,blank-1,
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Form,7,0,a.3,NULL,_REACTION_TIME_,3149
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,0,b.1,NULL,1,Some of the shapes are red.,577,False,Some of the shapes are red.
+1515620758,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,1,b.1,NULL,NULL,1. Good,NULL,5845
+#
+# Results on Thursday January 11 2018 13:19:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,1,0,intro,NULL,_REACTION_TIME_,2097
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,blank-1,
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,5,0,a.1,NULL,_REACTION_TIME_,1396
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Zin,3,0,b.2,NULL,1,Some of the shapes are red.,456,False,Some of the shapes are red.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,3,1,b.2,NULL,NULL,1. Good,NULL,1578
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,blank-1,
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,a.2,NULL,_REACTION_TIME_,1664
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Zin,2,0,b.1,NULL,1,Some of the shapes are red.,713,False,Some of the shapes are red.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,2,1,b.1,NULL,NULL,0. Not good,NULL,1654
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,blank-1,
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Form,7,0,a.3,NULL,_REACTION_TIME_,1281
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,Zin,4,0,b.3,NULL,1,Some of the shapes are red.,688,False,Some of the shapes are red.
+1515676753,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,4,1,b.3,NULL,NULL,0. Not good,NULL,1507
+#
+# Results on Thursday January 11 2018 16:07:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 5
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Form,1,0,intro,NULL,_REACTION_TIME_,3069
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,2,0,sst1,NULL,1,Some of the shapes are red.,2528,False,Some of the shapes are red.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,2,1,sst1,NULL,NULL,1. Good,NULL,666
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,15,0,ssu,NULL,1,Some of the shapes are blue.,848,False,Some of the shapes are blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,15,1,ssu,NULL,NULL,1. Good,NULL,484
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,9,0,ssf,NULL,1,Some of the shapes are blue.,472,False,Some of the shapes are blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,9,1,ssf,NULL,NULL,1. Good,NULL,604
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,22,0,exf,NULL,1,It is the square that is yellow.,496,False,It is the square that is yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,22,1,exf,NULL,NULL,1. Good,NULL,588
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,29,0,exu,NULL,1,It is the triangle that is red.,489,False,It is the triangle that is red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,29,1,exu,NULL,NULL,1. Good,NULL,605
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,21,0,ext,NULL,1,It is the square that is blue.,408,False,It is the square that is blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,21,1,ext,NULL,NULL,1. Good,NULL,564
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,14,0,ssu,NULL,1,Some of the shapes are green.,432,False,Some of the shapes are green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,14,1,ssu,NULL,NULL,1. Good,NULL,517
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,10,0,ssf,NULL,1,Some of the shapes are blue.,441,False,Some of the shapes are blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,10,1,ssf,NULL,NULL,1. Good,NULL,445
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,24,0,exf,NULL,1,It is the triangle that is red.,440,False,It is the triangle that is red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,24,1,exf,NULL,NULL,1. Good,NULL,615
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,5,0,sst,NULL,1,Some of the shapes are blue.,455,False,Some of the shapes are blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,5,1,sst,NULL,NULL,1. Good,NULL,638
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,30,0,exu,NULL,1,It is the square that is green.,439,False,It is the square that is green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,30,1,exu,NULL,NULL,1. Good,NULL,533
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,20,0,ext,NULL,1,It is the circle that is red.,407,False,It is the circle that is red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,20,1,ext,NULL,NULL,1. Good,NULL,582
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,16,0,ssu,NULL,1,Some of the shapes are yellow.,440,False,Some of the shapes are yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,16,1,ssu,NULL,NULL,1. Good,NULL,454
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,8,0,ssf,NULL,1,Some of the shapes are green.,424,False,Some of the shapes are green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,8,1,ssf,NULL,NULL,1. Good,NULL,516
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,23,0,exf,NULL,1,It is the circle that is yellow.,456,False,It is the circle that is yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,23,1,exf,NULL,NULL,1. Good,NULL,430
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,6,0,sst,NULL,1,Some of the shapes are yellow.,424,False,Some of the shapes are yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,6,1,sst,NULL,NULL,1. Good,NULL,580
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,31,0,exu,NULL,1,It is the circle that is red.,496,False,It is the circle that is red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,31,1,exu,NULL,NULL,1. Good,NULL,629
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,18,0,ext,NULL,1,It is the triangle that is green.,416,False,It is the triangle that is green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,18,1,ext,NULL,NULL,1. Good,NULL,549
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,12,0,ssu,NULL,1,Some of the shapes are red.,320,False,Some of the shapes are red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,12,1,ssu,NULL,NULL,1. Good,NULL,517
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,11,0,ssf,NULL,1,Some of the shapes are yellow.,384,False,Some of the shapes are yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,11,1,ssf,NULL,NULL,1. Good,NULL,516
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,26,0,exf,NULL,1,It is the circle that is green.,392,False,It is the circle that is green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,26,1,exf,NULL,NULL,1. Good,NULL,525
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,4,0,sst,NULL,1,Some of the shapes are green.,400,False,Some of the shapes are green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,4,1,sst,NULL,NULL,1. Good,NULL,430
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,28,0,exu,NULL,1,It is the circle that is green.,344,False,It is the circle that is green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,28,1,exu,NULL,NULL,1. Good,NULL,461
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,19,0,ext,NULL,1,It is the square that is yellow.,360,False,It is the square that is yellow.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,19,1,ext,NULL,NULL,1. Good,NULL,534
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,13,0,ssu,NULL,1,Some of the shapes are green.,432,False,Some of the shapes are green.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,13,1,ssu,NULL,NULL,1. Good,NULL,492
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,7,0,ssf,NULL,1,Some of the shapes are red.,392,False,Some of the shapes are red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,7,1,ssf,NULL,NULL,1. Good,NULL,453
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,25,0,exf,NULL,1,It is the triangle that is blue.,359,False,It is the triangle that is blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,25,1,exf,NULL,NULL,1. Good,NULL,492
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,3,0,sst,NULL,1,Some of the shapes are red.,288,False,Some of the shapes are red.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,3,1,sst,NULL,NULL,1. Good,NULL,486
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,27,0,exu,NULL,1,It is the square that is blue.,272,False,It is the square that is blue.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,27,1,exu,NULL,NULL,1. Good,NULL,485
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,Zin,17,0,ext,NULL,1,It is the circle that is green.,256,False,It is the circle that is green.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1515686863,6003f59b39ceab0504eb9bd8d1f7a557,VraagX,17,1,ext,NULL,NULL,1. Good,NULL,349
+#
+# Results on Sunday January 14 2018 02:35:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 6
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,1932
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,28,0,quant.ta,9,1,Some of the circles are blue,635,False,Some of the circles are blue
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,28,1,quant.ta,9,NULL,1. Good,NULL,3330
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,55,0,quant.ta,18,1,It is the square that is yellow,1073,False,It is the square that is yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,55,1,quant.ta,18,NULL,1. Good,NULL,506
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,0,quant.tr,1,1,Some of the shapes are red,446,False,Some of the shapes are red
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,1,quant.tr,1,NULL,1. Good,NULL,611
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,91,0,quant.ta,30,1,It is the triangle that is black,412,False,It is the triangle that is black
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,91,1,quant.ta,30,NULL,1. Good,NULL,687
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,73,0,quant.ta,24,1,It is the square that is green,435,False,It is the square that is green
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,73,1,quant.ta,24,NULL,1. Good,NULL,558
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,56,0,quant.tr,19,1,It is the circle that is red,453,False,It is the circle that is red
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,56,1,quant.tr,19,NULL,1. Good,NULL,430
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,20,0,quant.tr,7,1,Some of the triangles are black,416,False,Some of the triangles are black
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,20,1,quant.tr,7,NULL,1. Good,NULL,391
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,78,0,quant.fa,26,1,It is the triangle that is yellow,398,False,It is the triangle that is yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,78,1,quant.fa,26,NULL,1. Good,NULL,430
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,87,0,quant.fa,29,1,It is the square that is orange,409,False,It is the square that is orange
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,87,1,quant.fa,29,NULL,1. Good,NULL,335
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,37,0,quant.ta,12,1,Some of the circles are orange,408,False,Some of the circles are orange
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,37,1,quant.ta,12,NULL,1. Good,NULL,377
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,42,0,quant.fa,14,1,Some of the squares are yellow,388,False,Some of the squares are yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,42,1,quant.fa,14,NULL,1. Good,NULL,364
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,51,0,quant.fa,17,1,It is the triangle that is green,397,False,It is the triangle that is green
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,51,1,quant.fa,17,NULL,1. Good,NULL,312
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,11,0,quant.tr,4,1,Some of the shapes are yellow,412,False,Some of the shapes are yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,11,1,quant.tr,4,NULL,1. Good,NULL,264
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,83,0,quant.tr,28,1,It is the circle that is orange,367,False,It is the circle that is orange
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,83,1,quant.tr,28,NULL,1. Good,NULL,283
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,29,0,quant.tr,10,1,Some of the circles are yellow,392,False,Some of the circles are yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,29,1,quant.tr,10,NULL,1. Good,NULL,283
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,64,0,quant.ta,21,1,It is the circle that is yellow,364,False,It is the circle that is yellow
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,64,1,quant.ta,21,NULL,1. Good,NULL,250
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,6,0,quant.fa,2,1,Some of the shapes are green,417,False,Some of the shapes are green
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,6,1,quant.fa,2,NULL,1. Good,NULL,239
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,33,0,quant.fa,11,1,Some of the circles are black,343,False,Some of the circles are black
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,33,1,quant.fa,11,NULL,1. Good,NULL,214
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,69,0,quant.fa,23,1,It is the triangle that is blue,383,False,It is the triangle that is blue
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,69,1,quant.fa,23,NULL,1. Good,NULL,238
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,47,0,quant.tr,16,1,It is the circle that is green,367,False,It is the circle that is green
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,47,1,quant.tr,16,NULL,1. Good,NULL,256
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,74,0,quant.tr,25,1,It is the circle that is blue,340,False,It is the circle that is blue
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,74,1,quant.tr,25,NULL,1. Good,NULL,300
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,10,0,quant.ta,3,1,Some of the shapes are blue,360,False,Some of the shapes are blue
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,10,1,quant.ta,3,NULL,1. Good,NULL,275
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,60,0,quant.fa,20,1,It is the square that is blue,356,False,It is the square that is blue
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,60,1,quant.fa,20,NULL,1. Good,NULL,302
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,24,0,quant.fa,8,1,Some of the triangles are orange,331,False,Some of the triangles are orange
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,24,1,quant.fa,8,NULL,1. Good,NULL,320
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,15,0,quant.fa,5,1,Some of the triangles are red,380,False,Some of the triangles are red
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,15,1,quant.fa,5,NULL,1. Good,NULL,329
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,46,0,quant.ta,15,1,Some of the squares are black,352,False,Some of the squares are black
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,46,1,quant.ta,15,NULL,1. Good,NULL,348
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,65,0,quant.tr,22,1,It is the triangle that is red,329,False,It is the triangle that is red
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,65,1,quant.tr,22,NULL,1. Good,NULL,324
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,82,0,quant.ta,27,1,It is the square that is black,325,False,It is the square that is black
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,82,1,quant.ta,27,NULL,1. Good,NULL,312
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,38,0,quant.tr,13,1,Some of the squares are red,356,False,Some of the squares are red
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,38,1,quant.tr,13,NULL,1. Good,NULL,286
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,Zin,19,0,quant.ta,6,1,Some of the triangles are green,320,False,Some of the triangles are green
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1515897335,7b27a42cb0320c12dad41818dc4e59a6,VraagX,19,1,quant.ta,6,NULL,1. Good,NULL,369
+#
+# Results on Sunday January 14 2018 19:50:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515959455,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,2002
+1515959455,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,blank-1,
+1515959455,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,_REACTION_TIME_,3615
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515959455,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,1,quant.tr,1,1,Some of the shapes are red,537,False,Some of the shapes are red
+1515959455,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,2,quant.tr,1,NULL,1. Good,NULL,2252
+#
+# Results on Sunday January 14 2018 20:32:16 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515961936,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,1797
+1515961936,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,blank-1,
+1515961936,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,_REACTION_TIME_,1607
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515961936,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,1,quant.tr,1,1,Some of the shapes are red,407,False,Some of the shapes are red
+1515961936,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,2,quant.tr,1,NULL,1. Good,NULL,1326
+#
+# Results on Sunday January 14 2018 20:38:57 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962337,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,2172
+1515962337,7b27a42cb0320c12dad41818dc4e59a6,Form,3,0,quant.fa,1,blank-1,
+1515962337,7b27a42cb0320c12dad41818dc4e59a6,Form,3,0,quant.fa,1,_REACTION_TIME_,1797
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962337,7b27a42cb0320c12dad41818dc4e59a6,Zin,3,1,quant.fa,1,1,Some of the shapes are red,688,False,Some of the shapes are red
+1515962337,7b27a42cb0320c12dad41818dc4e59a6,VraagX,3,2,quant.fa,1,NULL,1. Good,NULL,3074
+#
+# Results on Sunday January 14 2018 20:48:25 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,1,0,intro,NULL,_REACTION_TIME_,2948
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,68,0,quant.fa,22,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,68,0,quant.fa,22,_REACTION_TIME_,5844
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,68,1,quant.fa,22,1,It is the triangle that is red,1789,False,It is the triangle that is red
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,68,2,quant.fa,22,NULL,1. Good,NULL,2402
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,45,0,quant.ta,14,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,45,0,quant.ta,14,_REACTION_TIME_,4548
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,45,1,quant.ta,14,1,Some of the squares are yellow,976,False,Some of the squares are yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,45,2,quant.ta,14,NULL,1. Good,NULL,792
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,72,0,quant.ta,23,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,72,0,quant.ta,23,_REACTION_TIME_,1270
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,72,1,quant.ta,23,1,It is the triangle that is blue,540,False,It is the triangle that is blue
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,72,2,quant.ta,23,NULL,1. Good,NULL,1385
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,81,0,quant.ta,26,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,81,0,quant.ta,26,_REACTION_TIME_,1773
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,81,1,quant.ta,26,1,It is the triangle that is yellow,552,False,It is the triangle that is yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,81,2,quant.ta,26,NULL,1. Good,NULL,763
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,77,0,quant.fa,25,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,77,0,quant.fa,25,_REACTION_TIME_,1533
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,77,1,quant.fa,25,1,It is the circle that is blue,757,False,It is the circle that is blue
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,77,2,quant.fa,25,NULL,1. Good,NULL,794
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,54,0,quant.ta,17,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,54,0,quant.ta,17,_REACTION_TIME_,1880
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,54,1,quant.ta,17,1,It is the triangle that is green,518,False,It is the triangle that is green
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,54,2,quant.ta,17,NULL,1. Good,NULL,679
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,50,0,quant.fa,16,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,50,0,quant.fa,16,_REACTION_TIME_,1191
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,50,1,quant.fa,16,1,It is the circle that is green,378,False,It is the circle that is green
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,50,2,quant.fa,16,NULL,1. Good,NULL,682
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,19,0,quant.tr,6,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,19,0,quant.tr,6,_REACTION_TIME_,764
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,19,1,quant.tr,6,1,Some of the triangles are green,519,False,Some of the triangles are green
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,19,2,quant.tr,6,NULL,1. Good,NULL,778
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,91,0,quant.tr,30,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,91,0,quant.tr,30,_REACTION_TIME_,1437
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,91,1,quant.tr,30,1,It is the triangle that is black,413,False,It is the triangle that is black
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,91,2,quant.tr,30,NULL,1. Good,NULL,693
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,90,0,quant.ta,29,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,90,0,quant.ta,29,_REACTION_TIME_,1170
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,90,1,quant.ta,29,1,It is the square that is orange,346,False,It is the square that is orange
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,90,2,quant.ta,29,NULL,1. Good,NULL,550
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,9,0,quant.ta,2,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,9,0,quant.ta,2,_REACTION_TIME_,1427
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,9,1,quant.ta,2,1,Some of the shapes are green,286,False,Some of the shapes are green
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,9,2,quant.ta,2,NULL,1. Good,NULL,488
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,23,0,quant.fa,7,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,23,0,quant.fa,7,_REACTION_TIME_,1093
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,23,1,quant.fa,7,1,Some of the triangles are black,358,False,Some of the triangles are black
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,23,2,quant.fa,7,NULL,1. Good,NULL,733
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,59,0,quant.fa,19,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,59,0,quant.fa,19,_REACTION_TIME_,1222
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,59,1,quant.fa,19,1,It is the circle that is red,303,False,It is the circle that is red
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,59,2,quant.fa,19,NULL,1. Good,NULL,1654
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,27,0,quant.ta,8,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,27,0,quant.ta,8,_REACTION_TIME_,956
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,27,1,quant.ta,8,1,Some of the triangles are orange,302,False,Some of the triangles are orange
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,27,2,quant.ta,8,NULL,1. Good,NULL,534
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,46,0,quant.tr,15,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,46,0,quant.tr,15,_REACTION_TIME_,733
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,46,1,quant.tr,15,1,Some of the squares are black,385,False,Some of the squares are black
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,46,2,quant.tr,15,NULL,1. Good,NULL,685
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,64,0,quant.tr,21,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,64,0,quant.tr,21,_REACTION_TIME_,1310
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,64,1,quant.tr,21,1,It is the circle that is yellow,220,False,It is the circle that is yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,64,2,quant.tr,21,NULL,1. Good,NULL,432
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,73,0,quant.tr,24,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,73,0,quant.tr,24,_REACTION_TIME_,1173
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,73,1,quant.tr,24,1,It is the square that is green,240,False,It is the square that is green
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,73,2,quant.tr,24,NULL,1. Good,NULL,552
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,63,0,quant.ta,20,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,63,0,quant.ta,20,_REACTION_TIME_,1189
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,63,1,quant.ta,20,1,It is the square that is blue,266,False,It is the square that is blue
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,63,2,quant.ta,20,NULL,1. Good,NULL,498
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,14,0,quant.fa,4,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,14,0,quant.fa,4,_REACTION_TIME_,1355
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,14,1,quant.fa,4,1,Some of the shapes are yellow,270,False,Some of the shapes are yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,14,2,quant.fa,4,NULL,1. Good,NULL,756
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,10,0,quant.tr,3,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,10,0,quant.tr,3,_REACTION_TIME_,975
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,10,1,quant.tr,3,1,Some of the shapes are blue,297,False,Some of the shapes are blue
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,10,2,quant.tr,3,NULL,1. Good,NULL,457
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,18,0,quant.ta,5,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,18,0,quant.ta,5,_REACTION_TIME_,1049
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,18,1,quant.ta,5,1,Some of the triangles are red,289,False,Some of the triangles are red
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,18,2,quant.ta,5,NULL,1. Good,NULL,678
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,36,0,quant.ta,11,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,36,0,quant.ta,11,_REACTION_TIME_,1041
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,36,1,quant.ta,11,1,Some of the circles are black,309,False,Some of the circles are black
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,36,2,quant.ta,11,NULL,1. Good,NULL,671
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,82,0,quant.tr,27,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,82,0,quant.tr,27,_REACTION_TIME_,1128
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,82,1,quant.tr,27,1,It is the square that is black,255,False,It is the square that is black
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,82,2,quant.tr,27,NULL,1. Good,NULL,490
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,28,0,quant.tr,9,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,28,0,quant.tr,9,_REACTION_TIME_,1012
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,28,1,quant.tr,9,1,Some of the circles are blue,275,False,Some of the circles are blue
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,28,2,quant.tr,9,NULL,1. Good,NULL,460
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,2,0,quant.tr,1,_REACTION_TIME_,1032
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,2,1,quant.tr,1,1,Some of the shapes are red,276,False,Some of the shapes are red
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,2,2,quant.tr,1,NULL,1. Good,NULL,435
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,86,0,quant.fa,28,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,86,0,quant.fa,28,_REACTION_TIME_,1031
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,86,1,quant.fa,28,1,It is the circle that is orange,282,False,It is the circle that is orange
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,86,2,quant.fa,28,NULL,1. Good,NULL,440
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,41,0,quant.fa,13,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,41,0,quant.fa,13,_REACTION_TIME_,1045
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,41,1,quant.fa,13,1,Some of the squares are red,263,False,Some of the squares are red
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,41,2,quant.fa,13,NULL,1. Good,NULL,412
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,32,0,quant.fa,10,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,32,0,quant.fa,10,_REACTION_TIME_,986
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,32,1,quant.fa,10,1,Some of the circles are yellow,242,False,Some of the circles are yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,32,2,quant.fa,10,NULL,1. Good,NULL,728
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,37,0,quant.tr,12,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,37,0,quant.tr,12,_REACTION_TIME_,848
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,37,1,quant.tr,12,1,Some of the circles are orange,248,False,Some of the circles are orange
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,37,2,quant.tr,12,NULL,1. Good,NULL,492
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,55,0,quant.tr,18,blank-1,
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Form,55,0,quant.tr,18,_REACTION_TIME_,1183
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,Zin,55,1,quant.tr,18,1,It is the square that is yellow,268,False,It is the square that is yellow
+1515962905,7b27a42cb0320c12dad41818dc4e59a6,VraagX,55,2,quant.tr,18,NULL,1. Good,NULL,624
