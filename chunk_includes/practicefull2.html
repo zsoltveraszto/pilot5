@@ -3,14 +3,14 @@
   class='star'></div></td><td><div
   class='star'></div></td><td><div
   class='star'></div></td><td><div
-  class='moony'></div></td><td><div
-  class='moony'></div></td><td><div
+  class='stary'></div></td><td><div
+  class='stary'></div></td><td><div
 </table>
 
 <style>
 .cx {width: 100px; height: 100px; background: black; border-radius: 50px;}
-.moony {position: relative; width: 150px; height: 150px; background: yellow; border-radius: 75px;}
-.moony:after {content:'';position: absolute; width: 115px; height: 115px; background: white; border-radius: 60px;}
+.moony {position: relative; width: 75px; height: 75px; background: yellow; border-radius: 32.5px;}
+.moony:after {content:'';position: absolute; width: 57.5px; height: 57.5px; background: white; border-radius: 30px;}
 .co {width: 100px; height: 100px; background: orange; border-radius: 50px;}
 .cr {width: 100px; height: 100px; background: red; border-radius: 50px;}
 .cg {width: 100px; height: 100px; background: green; border-radius: 50px;}
@@ -39,15 +39,66 @@
 .dy {width: 0; height: 0; border: 55px solid transparent; border-bottom-color: yellow; position: relative; top: -55px;}
 .dy:after {content: ''; position: absolute; left: -55px; top: 55px; width: 0; height: 0; border: 55px solid transparent; border-top-color: yellow;}
 
+.stary {
+  position: relative;
+  display: block;
+  margin: 28.8px 0;
+  width: 0px;
+  height: 0px;
+  border-right: 48px solid transparent;
+  border-bottom: 36px solid yellow;
+  border-left: 48px solid transparent;
+  -webkit-transform: rotate(37deg);
+  -moz-transform: rotate(37deg);
+  -ms-transform: rotate(37deg);
+  -o-transform: rotate(37deg);
+  transform: rotate(37deg);
+}
+
+.stary:before {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  top: -22.5px;
+  left: -28.8px;
+  content: "";
+  border-bottom: 33.6px solid yellow;
+  border-left: 11.2px solid transparent;
+  border-right: 11.2px solid transparent;
+  -webkit-transform: rotate(323deg);
+  -moz-transform: rotate(323deg);
+  -ms-transform: rotate(323deg);
+  -o-transform: rotate(323deg);
+  transform: rotate(323deg);
+}
+
+.stary:after {
+  position: absolute;
+  display: block;
+  width: 0px;
+  height: 0px;
+  top: 0;
+  left: -48px;
+  content: "";
+  border-right: 48px solid transparent;
+  border-bottom: 36px solid yellow;
+  border-left: 48px solid transparent;
+  -webkit-transform: rotate(286deg);
+  -moz-transform: rotate(286deg);
+  -ms-transform: rotate(286deg);
+  -o-transform: rotate(286deg);
+  transform: rotate(286deg);
+}
 .star {
   position: relative;
   display: block;
-  margin: 57.6px 0;
+  margin: 28.8px 0;
   width: 0px;
   height: 0px;
-  border-right: 96px solid transparent;
-  border-bottom: 72px solid green;
-  border-left: 96px solid transparent;
+  border-right: 48px solid transparent;
+  border-bottom: 36px solid green;
+  border-left: 48px solid transparent;
   -webkit-transform: rotate(37deg);
   -moz-transform: rotate(37deg);
   -ms-transform: rotate(37deg);
@@ -60,12 +111,12 @@
   display: block;
   width: 0;
   height: 0;
-  top: -45px;
-  left: -57.6px;
+  top: -22.5px;
+  left: -28.8px;
   content: "";
-  border-bottom: 67.2px solid green;
-  border-left: 22.4px solid transparent;
-  border-right: 22.4px solid transparent;
+  border-bottom: 33.6px solid green;
+  border-left: 11.2px solid transparent;
+  border-right: 11.2px solid transparent;
   -webkit-transform: rotate(323deg);
   -moz-transform: rotate(323deg);
   -ms-transform: rotate(323deg);
@@ -79,11 +130,11 @@
   width: 0px;
   height: 0px;
   top: 0;
-  left: -96px;
+  left: -48px;
   content: "";
-  border-right: 96px solid transparent;
-  border-bottom: 72px solid green;
-  border-left: 96px solid transparent;
+  border-right: 48px solid transparent;
+  border-bottom: 36px solid green;
+  border-left: 48px solid transparent;
   -webkit-transform: rotate(286deg);
   -moz-transform: rotate(286deg);
   -ms-transform: rotate(286deg);

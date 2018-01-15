@@ -1,6 +1,6 @@
 //var shuffleSequence = seq("setcounter","intro",sepWith("sep", rshuffle(startsWith("a"),startsWith("b"))))
 //var shuffleSequence = seq("intro", "sst1", rshuffle("sst", "ssf", "ssu", "ext", "exf", "exu"));
-var shuffleSequence = seq("setcounter","intro",rshuffle(startsWith("quant")));
+var shuffleSequence = seq("setcounter","intro","ainstructions","practicea1","binstructions","practiceb1","practicefull1","practicefull2","realexperiment",rshuffle(startsWith("quant")));
 
 var practiceItemTypes = ["practice"];
 
@@ -61,6 +61,31 @@ var items = [
             age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
         }
     } ],
+    ["ainstructions", "Form", {
+        html: { include: "example_intro1.html" },
+        validators: {
+            age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
+        }
+    } ],
+    ["binstructions", "Form", {
+        html: { include: "example_intro2.html" },
+        validators: {
+            age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
+        }
+    } ],
+    ["realexperiment", "Form", {
+        html: { include: "example_intro3.html" },
+        validators: {
+            age: function (s) { if (s.match(/^\d+$/)) return true; else return "Bad value for \u2018age\u2019"; }
+        }
+    } ],
+
+
+["practicea1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are more stars than moons.</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}],
+["practiceb1", "Zin", {s: ["There are more stars than moons."]}, "VraagX", {html:{ include: "practiceb1.html" }}],
+
+["practicefull1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are three red stars. </p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["There are three red stars. "]}, "VraagX", {html:{ include: "practicefull1.html" }}],
+["practicefull2","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: More of the stars are green than yellow.</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["More of the stars are green than yellow."]}, "VraagX", {html:{ include: "practicefull2.html" }}],
 
 
 
@@ -156,9 +181,6 @@ var items = [
 [["quant.ta",30],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: It is the triangle that is black</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["It is the triangle that is black"]}, "VraagX", {html:{ include: "quant_ta_30.html" }}]
 
 
-  //  ["a.1","Form", {html:{ include: "proba.html" +blank("_________________________________________________________________")}}]
-   // ["a.2","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: TARGET SENTENCE2</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}],
-   // ["a.3","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: TARGET SENTENCE3</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}]
 ];
 
 
