@@ -1,6 +1,6 @@
 //var shuffleSequence = seq("setcounter","intro",sepWith("sep", rshuffle(startsWith("a"),startsWith("b"))))
 //var shuffleSequence = seq("intro", "sst1", rshuffle("sst", "ssf", "ssu", "ext", "exf", "exu"));
-var shuffleSequence = seq("setcounter","a.1","intro",rshuffle(startsWith("quant")));
+var shuffleSequence = seq("setcounter","intro",rshuffle(startsWith("quant")));
 
 var practiceItemTypes = ["practice"];
 
@@ -63,9 +63,6 @@ var items = [
     } ],
 
 
-
-[["quant.tr",1],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: TARGET SENTENCE2</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["Some of the shapes are red"]}, "VraagX", {html:{ include: "quant_tr_1.html" }}],
-[["quant.fa",1],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: TARGET SENTENCE2</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["Some of the shapes are red"]}, "VraagX", {html:{ include: "quant_fa_1.html" }}],
 
 [["quant.tr",1],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: Some of the shapes are red</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["Some of the shapes are red"]}, "VraagX", {html:{ include: "quant_tr_1.html" }}],
 [["quant.fa",1],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: Some of the shapes are red</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["Some of the shapes are red"]}, "VraagX", {html:{ include: "quant_fa_1.html" }}],
