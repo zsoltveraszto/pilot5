@@ -3,8 +3,7 @@
 var randomCode = Math.random().toString(36).substr(2,9); 
 var completionCode = String("NPI-" + randomCode); 
 var completionMessage = "Thank you for your participation. The results were successfully transmitted. Your participation code is: "+ completionCode;
-//var shuffleSequence = seq("setcounter","intro","ainstructions","practicea1","binstructions","practiceb1","fullexperimentmessage","practicefull1","practicefull2","realexperiment",rshuffle(startsWith("quant")));
-var shuffleSequence = seq("setcounter","intro","ainstructions","practicea1","binstructions","practiceb1","fullexperimentmessage","practicefull1","practicefull2","realexperiment");
+var shuffleSequence = seq("setcounter","intro","ainstructions","practicea1","binstructions","practiceb1","fullexperimentmessage","practicefull1","practicefull2","realexperiment",rshuffle(startsWith("quant")));
 
 var practiceItemTypes = ["practice"];
 
