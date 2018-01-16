@@ -86,7 +86,7 @@ var items = [
 
 ["practicea1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are more stars than moons.</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}],
 ["practiceb1", "Zin", {s: ["There are more stars than moons."]}, "VraagX", {html:{ include: "practiceb1.html" }}],
-["fullexperimentmessage", Form, {html: ["div",["p", "Now you'll see two full practice trials."]]}],
+["fullexperimentmessage", Form, {html: ["p", "Now you'll see two full practice trials."]}],
 ["practicefull1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are three red stars. </p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["There are three red stars. "]}, "VraagX", {html:{ include: "practicefull1.html" }}],
 ["practicefull2","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: More of the stars are green than yellow.</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "Zin", {s: ["More of the stars are green than yellow."]}, "VraagX", {html:{ include: "practicefull2.html" }}],
 
