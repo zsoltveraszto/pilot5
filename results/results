@@ -2770,3 +2770,153 @@
 # 8. Field name.
 # 9. Field value.
 1516104146,7216df8da84ac961ca50f005311f5041,Form,4,0,realexperiment,NULL,_REACTION_TIME_,981
+#
+# Results on Thursday January 18 2018 15:18:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1516288682,7216df8da84ac961ca50f005311f5041,Form,2,0,intro,NULL,_REACTION_TIME_,2188
+1516288682,7216df8da84ac961ca50f005311f5041,Form,3,0,ainstructions,NULL,_REACTION_TIME_,3780
+1516288682,7216df8da84ac961ca50f005311f5041,Form,7,0,practicea1,NULL,blank-1,
+1516288682,7216df8da84ac961ca50f005311f5041,Form,7,0,practicea1,NULL,_REACTION_TIME_,1254
+1516288682,7216df8da84ac961ca50f005311f5041,Form,4,0,binstructions,NULL,_REACTION_TIME_,1982
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1516288682,7216df8da84ac961ca50f005311f5041,Zin,8,0,practiceb1,NULL,1,There are more stars than moons.,527,False,There are more stars than moons.
+1516288682,7216df8da84ac961ca50f005311f5041,VraagX,8,1,practiceb1,NULL,NULL,1. Good,NULL,1739
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1516288682,7216df8da84ac961ca50f005311f5041,Form,9,0,fullexperimentmessage,NULL,_REACTION_TIME_,1405
+1516288682,7216df8da84ac961ca50f005311f5041,Form,10,0,practicefull1,NULL,blank-1,
+1516288682,7216df8da84ac961ca50f005311f5041,Form,10,0,practicefull1,NULL,_REACTION_TIME_,2112
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1516288682,7216df8da84ac961ca50f005311f5041,Zin,10,1,practicefull1,NULL,1,There are three red stars. ,464,False,There are three red stars. 
+1516288682,7216df8da84ac961ca50f005311f5041,VraagX,10,2,practicefull1,NULL,NULL,0. Not good,NULL,2397
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1516288682,7216df8da84ac961ca50f005311f5041,Form,11,0,practicefull2,NULL,blank-1,
+1516288682,7216df8da84ac961ca50f005311f5041,Form,11,0,practicefull2,NULL,_REACTION_TIME_,1645
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1516288682,7216df8da84ac961ca50f005311f5041,Zin,11,1,practicefull2,NULL,1,More of the stars are green than yellow.,520,False,More of the stars are green than yellow.
+1516288682,7216df8da84ac961ca50f005311f5041,VraagX,11,2,practicefull2,NULL,NULL,0. Not good,NULL,1877
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1516288682,7216df8da84ac961ca50f005311f5041,Form,5,0,realexperiment,NULL,_REACTION_TIME_,4221
+1516288682,7216df8da84ac961ca50f005311f5041,Form,6,0,exit,NULL,randomfield,OmN6PgLv
+1516288682,7216df8da84ac961ca50f005311f5041,Form,6,0,exit,NULL,worker_id,OmN6PgLv
+1516288682,7216df8da84ac961ca50f005311f5041,Form,6,0,exit,NULL,identifier,OmN6PgLv
+1516288682,7216df8da84ac961ca50f005311f5041,Form,6,0,exit,NULL,_REACTION_TIME_,28982
