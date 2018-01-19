@@ -1,9 +1,10 @@
 //var shuffleSequence = seq("setcounter","intro",sepWith("sep", rshuffle(startsWith("a"),startsWith("b"))))
 //var shuffleSequence = seq("intro", "sst1", rshuffle("sst", "ssf", "ssu", "ext", "exf", "exu"));
-var randomCode = Math.random().toString(36).substr(2,9); 
-var completionCode = String("QUANT-" + randomCode); 
+var randomCode = Math.random().toString(36).substr(2,9);
+var completionCode = String("QUANT-" + randomCode);
 var completionMessage = "Thank you for your participation. The results were successfully transmitted. Your participation code is: "+ completionCode;
 var shuffleSequence = seq("setcounter","consent","intro","ainstructions","practicea1","binstructions","practiceb1","fullexperimentmessage","practicefull1","practicefull2","realexperiment",rshuffle(startsWith("quant")),"exit");
+var shuffleSequence = seq("practiceb1",rshuffle(startsWith("quant")));
 
 var practiceItemTypes = ["practice"];
 
@@ -65,7 +66,7 @@ var items = [
     ["exit", "Form", {html: { include: "exit.html" },validators: {}} ],
 
 
-["practicea1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are more stars than moons.</p>"+ "<p><i>What do you think Anne's question was?</i>(Keep this question in mind because you’ll use it later!)</p>"+ blank("_________________________________________________________________")}],
+["practicea1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are more stars than moons.</p>"+ "<p><i>What do you think Anne's question was?</i> (Keep this question in mind because you’ll use it later!)</p>"+ blank("_________________________________________________________________")}],
 ["practiceb1", "VraagX", {html:{ include: "practiceb1.html" }}],
 ["fullexperimentmessage", "Form", {html: {include: "fullexperimentmessage.html"}}],
 ["practicefull1","Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: There are two types of shapes. </p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "VraagX", {html:{ include: "practicefull1.html" }}],
