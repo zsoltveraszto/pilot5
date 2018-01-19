@@ -164,7 +164,6 @@ var items = [
 [["quant.fa",30],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: It is the triangle that is black</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "VraagX", {html:{ include: "quant_fa_30.html" }}],
 [["quant.ta",30],"Form", {html:"<p>Anne: ____________________?</p>"+ "<p>Bob: It is the triangle that is black</p>"+ "<p><i>What do you think Anne's question was?</i></p>"+ blank("_________________________________________________________________")}, "VraagX", {html:{ include: "quant_ta_30.html" }}],
 
-
 ];
 
 
