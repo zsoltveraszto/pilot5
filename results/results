@@ -3057,3 +3057,24 @@
 1516664841,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,exit,NULL,worker_id,fds
 1516664841,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,exit,NULL,identifier,sdf
 1516664841,6003f59b39ceab0504eb9bd8d1f7a557,Form,6,0,exit,NULL,_REACTION_TIME_,13277
+#
+# Results on Tuesday January 23 2018 16:30:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1516725018,cad145ecd597566564dc74601b12ba40,Form,7,0,practicea1,NULL,blank-1,iujkjk
+1516725018,cad145ecd597566564dc74601b12ba40,Form,7,0,practicea1,NULL,_REACTION_TIME_,3471
+1516725018,cad145ecd597566564dc74601b12ba40,Form,6,0,exit,NULL,randomfield,Nt28pymT
+1516725018,cad145ecd597566564dc74601b12ba40,Form,6,0,exit,NULL,worker_id,efdsfds
+1516725018,cad145ecd597566564dc74601b12ba40,Form,6,0,exit,NULL,identifier,Nt28pymT
+1516725018,cad145ecd597566564dc74601b12ba40,Form,6,0,exit,NULL,_REACTION_TIME_,13456
