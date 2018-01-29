@@ -54,10 +54,6 @@ var defaults = [
     "Message", {
       hideProgressBar: true,
       transfer: "keypress"
-    },
-    "Message2", {
-      hideProgressBar: true,
-      transfer: "null"
     }
   ];
 
